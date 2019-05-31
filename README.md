@@ -1,7 +1,6 @@
 # SaveTheEarth
 <h1>IRONMAN</h1>
-<br>
-![Ironman](ironman.jpg)
+![ironman](ironman.jpg)
 **Basic Info**
 *Tony Stark describes Ironman*
 Genius|Playboy|Billionaire|philanthropist
